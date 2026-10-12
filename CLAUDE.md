@@ -1,0 +1,3 @@
+# Claude Code project instructions — ANTWARS
+
+Read `START_HERE_PROMPT.md` first, then all files in `docs/`. Treat the instructions as a hands-on Roblox Studio implementation assignment. Use the official Studio MCP tools that are actually available, safely inspect the connected place, implement the MVP vertical slice, test through Play mode and multiplayer testing where possible, inspect errors and screenshots, and keep code modular, server-authoritative, mobile-friendly. Reference `assets/reference/` when designing 3D visuals and HUD. Never claim to have edited Studio or run tests without tool evidence. Do not publish, purchase assets or alter unrelated places without approval. Communicate in Russian, game UI copy in English.

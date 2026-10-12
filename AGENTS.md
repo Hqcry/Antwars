@@ -1,0 +1,3 @@
+# Codex project instructions — ANTWARS
+
+Read `START_HERE_PROMPT.md` first, then all files in `docs/`. This is an executable Roblox Studio build task, not a writing task. Connect through the official Roblox Studio MCP integration, inspect the current Studio place, create the first playable vertical slice, run playtests and debug. Use the visual references in `assets/reference/`. Protect pre-existing user data; don't publish, purchase or enable live API access without approval. Communicate progress in Russian; create game UI copy in English and prepare localization. See `docs/TASKS.md` for acceptance criteria. Never claim a Studio action/test completed unless the tool confirmed it.
